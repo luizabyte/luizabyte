@@ -1,16 +1,18 @@
 ## Hi there 👋
+<div  align="center">
+  <a href="https://github.com/luizabyte/luizabyte">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=luizabyte&show_icons=true&theme=radical" />
+  </a>
+  <a href="https://github.com/luizaabyte/luizabyte">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizabyte&langs_count=8&layout=compact&theme=radical" />
+  </a>
+</div>
 
-<!--
-**luizabyte/luizabyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizabyte&show_icons=true&theme=radical" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+</div>
+
+
